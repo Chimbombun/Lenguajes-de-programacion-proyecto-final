@@ -31,9 +31,7 @@ class Sintaxis:
     if not error:
       return "Oracion sintacticamente correcta"
 
-#oraciones = input('Porfavor ingrese una frase para ser evaluada' "\n").split("\n")
-#verificador = main()
-#print(verificador.verificar(oraciones))
+
       
 
 
